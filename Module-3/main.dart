@@ -49,8 +49,7 @@ void main() {
   print("Car Name : ${ferrari.getBrand()}");
   print("Car Model : ${ferrari.getModel()}");
   print("This Car was made on the year : ${ferrari.getYear()}");
-  print(
-      "Total number of miles driven by this car : ${ferrari.getMilesDriven()}");
+  print("Total number of miles driven by this car : ${ferrari.getMilesDriven()}");
   print("Age of this Car : ${ferrari.getAge()}");
 
   print("\n***********************************\n");
