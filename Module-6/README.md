@@ -1,16 +1,4 @@
 # module_6
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![q](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/87426345-ada0-46fb-8e2f-ca7d11c41d7a)
+![po](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/97b62328-7a94-4b77-9105-5f933830dff1)
