@@ -52,7 +52,6 @@ class _CounterAppState extends State<CounterApp> {
                       backgroundColor: Colors.green
                   ),
                   onPressed: (){
-
                     setState(() {
                       counter++;
                     });
@@ -63,7 +62,10 @@ class _CounterAppState extends State<CounterApp> {
                       Navigator.push(context, MaterialPageRoute(builder: (BuildContext context)=>const SecondScreen()));
                     }
                   },
-                  child: const Icon(Icons.add,color: Colors.white)
+                  child: Container(
+                    padding: const EdgeInsets.all(7),
+                    child: const Icon(Icons.add,color: Colors.white),
+                  )
               )),
               Flexible(
                   flex: 1,
@@ -78,7 +80,10 @@ class _CounterAppState extends State<CounterApp> {
                       });
                     }
                   },
-                  child: const Icon(Icons.minimize,color: Colors.white)
+                  child: Container(
+                    padding: const EdgeInsets.only(bottom: 15),
+                    child: const Icon(Icons.minimize,color: Colors.white),
+                  )
               )
               )
             ],
