@@ -107,7 +107,7 @@ class _HomePageState extends State<HomePage> {
                ),
                Container(
                  margin: const EdgeInsets.only(left: 20,top: 20),
-                 child : Text("Title : ${workData['description']}",style: Style.normalTextStyle()),
+                 child : Text("Title : ${workData['title']}",style: Style.normalTextStyle()),
                ),
                Container(
                  alignment: Alignment.centerLeft,
