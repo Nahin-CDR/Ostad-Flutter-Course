@@ -1,16 +1,9 @@
-# task_manager
+# Task Manager App
+# Made by Nazmul Haque Nahin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2023-08-05 at 12 20 42](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/dae502b6-ce7d-4d78-8f2e-d5ad34c64503)
+![WhatsApp Image 2023-08-05 at 12 20 43 (1)](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/6ee038c5-f14d-4e74-b569-422c8ba9de27)
+![WhatsApp Image 2023-08-05 at 12 20 43](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/97a72911-7c2d-4065-a4f6-84b97e7f9898)
+![WhatsApp Image 2023-08-05 at 12 20 44 (1)](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/54ed641b-47d0-4a6a-9a47-f56c81325317)
+![WhatsApp Image 2023-08-05 at 12 20 44](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/4596a524-86a6-40a7-a61a-3f7c63374c6d)
+![WhatsApp Image 2023-08-05 at 12 20 45](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/353f3622-b588-4619-9eac-0063775cbb15)
