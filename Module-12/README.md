@@ -1,5 +1,6 @@
 # Task Manager App
 # Made by Nazmul Haque Nahin
+project screen recorded video : https://youtu.be/FuqNYrcgrI0
 
 ![WhatsApp Image 2023-08-05 at 12 20 42](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/dae502b6-ce7d-4d78-8f2e-d5ad34c64503)
 ![WhatsApp Image 2023-08-05 at 12 20 43 (1)](https://github.com/Nahin-CDR/Ostad-Flutter-Course/assets/45636041/6ee038c5-f14d-4e74-b569-422c8ba9de27)
