@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:myapp/screens/automaticMapAnimation.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -10,6 +11,27 @@ class Home extends StatefulWidget {
 class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Google Map"),
+      ),
+      body: Column(
+        children: [
+          ElevatedButton(
+              onPressed: (){
+                Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                        builder:(BuildContext context){
+                          return const AutomaticMapAnimation();
+                        }
+                    )
+                );
+              },
+              child: const Text("Automatic Map Animation")
+          )
+        ],
+      ),
+    );
   }
 }

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:myapp/screens/automaticMapAnimation.dart';
 import 'package:myapp/screens/home.dart';
 
 void main() {
@@ -18,7 +19,7 @@ class MyMap extends StatelessWidget {
         brightness: Brightness.dark
       ),
       title: "Map Practice",
-      home: const Home(),
+      home: const AutomaticMapAnimation()//Home(),
     );
   }
 }
